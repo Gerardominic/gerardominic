@@ -1,6 +1,4 @@
 <h1 align="center">Hola soy Gerardo Mendoza</h1>
-<h3 align="center">Soy un Desarrollador haciendo proyectos para especializarme</h3>
-
 - 💬 Preguntame sobre **HTML, CSS, JS, Java**
 
 - 📫 Contactame **gdmg1989@hotmail.com**
